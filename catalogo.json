@@ -1,0 +1,21 @@
+[{
+    "id": "0001",
+    "desc": "placa-mãe",
+    "quant": "1"
+},
+{
+    "id": "0002",
+    "desc": "cooler",
+    "quant": "2"
+},
+{
+    "id": "0003",
+    "desc": "fonte",
+    "quant": "1"
+},
+{
+    "id": "0004",
+    "desc": "placa-de-video",
+    "quant": "1"
+}
+]
